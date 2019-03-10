@@ -12,7 +12,8 @@ and we want to find the occurrences of the entity when the query is searched in 
       source venv/bin/activate
   ```
 3. Install Dependencies
-  ``` pip install -r requirements.txt
+  ``` 
+      pip install -r requirements.txt
   ```
   
 ## Usage
